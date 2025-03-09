@@ -12,6 +12,9 @@ public class StoreArray {
 		}
 		System.out.print("Storing the array is " +sum);
 
+		//long i =10l;
+		//int [] arr = new int[(int) i];
+		//System.out.println(arr.length);
 	}
 
 }
